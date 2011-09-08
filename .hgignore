@@ -1,0 +1,15 @@
+
+syntax: glob
+
+*.pyc
+*.~
+*.swp
+*.swo
+*.orb
+*.tmp
+local_settings.py
+*/media/*
+*/build/*
+*/dist/*
+*egg-info/*
+
